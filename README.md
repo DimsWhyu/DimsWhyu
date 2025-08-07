@@ -1,18 +1,6 @@
-### 👋 Hi there, I'm **Dimas Wahyu Saputra** (DimsWhyu)  
-> 🧑‍🎓 Data Science Undergraduate @ Institut Teknologi Sepuluh Nopember (ITS)  
-> 🏅 Awardee of **Beasiswa Indonesia Maju (BIM)** – S1 DN  
-> 💡 Passionate about AI, Data Science, and Social Impact  
-> 🚀 Let’s connect and build impactful open-source projects together!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
----
-
-🔗 **Find me here**  
-- 🌐 [Website](https://dimsws.framer.website/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dimaswahyusaputra111/)  
-- 📸 [Instagram](https://www.instagram.com/dwhyu.s_/)  
-- 💻 [GitHub](https://github.com/DimsWhyu)
-
----
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimsWhyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
