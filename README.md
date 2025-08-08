@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm **Dimas Wahyu Saputra** (DimsWhyu)  
 > 🧑‍🎓 Data Science Undergraduate @ Institut Teknologi Sepuluh Nopember (ITS)  
 > 🏅 Awardee of **Beasiswa Indonesia Maju (BIM)** – S1 DN  
-> 📊 CEO Analyst Intern @ **Produktifkuy** (Internkuy #8)  
 > 💡 Passionate about AI, Data Science, and Social Impact  
 > 🚀 Let’s connect and build impactful open-source projects together!
 
